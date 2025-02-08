@@ -13,9 +13,9 @@ Participants successfully adopted ELMI to song-signing, with active discussions 
 We discuss research and design implications for accessible and culturally sensitive song-signing translation tools.
         </p>
         <div className="flex flex-wrap gap-4 mt-4">
-            <a className="icon-label-button bg-teal-500 pl-4" aria-disabled={true} target="_blank">
+            <a className="icon-label-button bg-teal-500 pl-4" href="./public/elmi-chi25.pdf" aria-disabled={true} target="_blank">
                 <NewspaperIcon className="w-6 h-6 text-white"/>
-                <span>Paper (Coming Soon)</span>
+                <span>Paper</span>
             </a>
             <a className="icon-label-button bg-red-400 pl-4" href="https://arxiv.org/abs/2409.09760" target="_blank">
                 <ArxivIcon size={20}/>
